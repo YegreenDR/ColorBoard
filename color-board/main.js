@@ -1,5 +1,5 @@
 const SQUARE_NUMBER = 400;
-const colors = ['#99FFFF', '#CC0000', '#FF9933', '#CCCC33', '#CC9966', '#CC99FF'];
+const colors = ['#999FFF', '#CCC000', '#FF9933', '#CCC333', '#CC9966', '#CC99FF'];
 
 const board = document.querySelector('#board');
 
